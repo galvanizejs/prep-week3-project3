@@ -25,6 +25,7 @@ ADVANCED TRACK: 14-20
 
 
 
+
 // 2. To your "me" object, add a key of "family" with the value being an array of three of your family members and display in the HTML page.
 // Example of desired output: { name: 'Bob Smith',
 //                              city: 'Denver',
@@ -114,9 +115,9 @@ var invitees = { adults: [{
 
 
 // ADVANCED TRACK
-// 14. Create an empty object called "books".
+// A. Create an empty object called "books".
 
-// 15. Create three book objects that contain book titles, their author, and number of pages.
+// B. Create three book objects that contain book titles, their author, and number of pages.
 //     The name of each object should be some kind of made up ISBN number.
 //     (Feel free to make up the titles. And the authors. Have fun. No pressure.)
 //     Insert the three objects into the "books" object.
@@ -139,16 +140,16 @@ var invitees = { adults: [{
     //                           }
     //             }
 
-// 16. Access the author of the first book.
+// C. Access the author of the first book.
 
-// 17. Get the length of the author the the third book.
+// D. Get the length of the author the the third book.
 
-// 18. To each book object variable, add a key of "dateRead" with a value of the year you read the book.
+// E. To each book object variable, add a key of "dateRead" with a value of the year you read the book.
 //     (Go ahead and make this up, too. Get wild.)
 
-// 19. Remove the second book from the books object.
+// F. Remove the second book from the books object.
 
-// 20. Explain, in your own words, the difference between Literal Notation and Constructor Notation.
+// G. Explain, in your own words, the difference between Literal Notation and Constructor Notation.
 
 
 

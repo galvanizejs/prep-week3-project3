@@ -1,5 +1,5 @@
-# week6-project1
+# Week 3 - Project 3
 
-Use the Week 6 - Lecture #1 material to assist you in completing this assignment.
+Use the Week 3 Lecture material on functions to assist you in completing this assignment.
 
 If you have any questions, please reach out to your classmates or instructor.
